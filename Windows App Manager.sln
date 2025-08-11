@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows App Manager", "Windows App Manager\Windows App Manager.csproj", "{5FC2F64A-7091-4276-ADC8-E0FC2FC0EE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerGUI", "ManagerGUI\ManagerGUI.csproj", "{EC124369-0B68-4C90-8A2C-071E4055F64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC2F64A-7091-4276-ADC8-E0FC2FC0EE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC2F64A-7091-4276-ADC8-E0FC2FC0EE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC2F64A-7091-4276-ADC8-E0FC2FC0EE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC2F64A-7091-4276-ADC8-E0FC2FC0EE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC124369-0B68-4C90-8A2C-071E4055F64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC124369-0B68-4C90-8A2C-071E4055F64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC124369-0B68-4C90-8A2C-071E4055F64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC124369-0B68-4C90-8A2C-071E4055F64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C44FB50-A288-4519-A88D-9DBF35D674F4}
+	EndGlobalSection
+EndGlobal

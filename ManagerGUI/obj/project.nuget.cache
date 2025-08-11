@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OI40SNiXKC8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hbush\\source\\repos\\Windows App Manager\\ManagerGUI\\ManagerGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hbush\\.nuget\\packages\\cuoreui.winforms\\2025.7.18\\cuoreui.winforms.2025.7.18.nupkg.sha512"
+  ],
+  "logs": []
+}

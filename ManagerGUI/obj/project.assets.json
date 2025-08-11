@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "CuoreUI.Winforms/2025.7.18": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CuoreUI.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/CuoreUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CuoreUI.Winforms/2025.7.18": {
+      "sha512": "RUUDHgRDi+seeSsCyD9mwhhhsQz1/PaXwh/rTCRKWTlqN0Nr56P/nhTbz/Qj7iscVnvw+ZhK2VdWAmdVReE/7A==",
+      "type": "package",
+      "path": "cuoreui.winforms/2025.7.18",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "cuoreui.winforms.2025.7.18.nupkg.sha512",
+        "cuoreui.winforms.nuspec",
+        "icon.png",
+        "lib/net472/CuoreUI.dll",
+        "lib/net8.0/CuoreUI.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "CuoreUI.Winforms >= 2025.7.18"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hbush\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hbush\\source\\repos\\Windows App Manager\\ManagerGUI\\ManagerGUI.csproj",
+      "projectName": "ManagerGUI",
+      "projectPath": "C:\\Users\\hbush\\source\\repos\\Windows App Manager\\ManagerGUI\\ManagerGUI.csproj",
+      "packagesPath": "C:\\Users\\hbush\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hbush\\source\\repos\\Windows App Manager\\ManagerGUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "CuoreUI.Winforms": {
+            "target": "Package",
+            "version": "[2025.7.18, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\bin\Debug\net8.0-windows\Windows App Manager.exe
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\bin\Debug\net8.0-windows\Windows App Manager.deps.json
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\bin\Debug\net8.0-windows\Windows App Manager.runtimeconfig.json
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\bin\Debug\net8.0-windows\Windows App Manager.dll
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\bin\Debug\net8.0-windows\Windows App Manager.pdb
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows App Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows App Manager.AssemblyInfoInputs.cache
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows App Manager.AssemblyInfo.cs
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows App Manager.csproj.CoreCompileInputs.cache
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows App Manager.dll
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\refint\Windows App Manager.dll
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows App Manager.pdb
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows App Manager.genruntimeconfig.cache
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\ref\Windows App Manager.dll
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\bin\Debug\net8.0-windows\CuoreUI.dll
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows App Manager.csproj.AssemblyReference.cache
+C:\Users\hbush\source\repos\Windows App Manager\Windows App Manager\obj\Debug\net8.0-windows\Windows .864DC4DE.Up2Date
