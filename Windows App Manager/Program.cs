@@ -5,6 +5,11 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 
+
+
+
+
+
 // Define isLegacy var:
 bool isLegacy = false;
 

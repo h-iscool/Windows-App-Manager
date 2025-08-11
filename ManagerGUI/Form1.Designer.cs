@@ -96,7 +96,7 @@
             cuiButton1.CheckedForeColor = Color.White;
             cuiButton1.CheckedImageTint = Color.White;
             cuiButton1.CheckedOutline = Color.FromArgb(255, 106, 0);
-            cuiButton1.Content = "Your text here!";
+            cuiButton1.Content = "";
             cuiButton1.DialogResult = DialogResult.None;
             cuiButton1.Font = new Font("Microsoft Sans Serif", 9.75F);
             cuiButton1.ForeColor = Color.Black;
