@@ -305,6 +305,8 @@ namespace FileGen
 
                     File.WriteAllText(path, fileContents);
 
+                    MessageBox.Show("Done!");
+
                 }
                 catch (Exception ex) { 
                     MessageBox.Show($"{e.ToString()}","Error",MessageBoxButtons.OK, MessageBoxIcon.Error);

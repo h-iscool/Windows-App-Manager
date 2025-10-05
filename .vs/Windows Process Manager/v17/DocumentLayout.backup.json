@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3825BC36-C5A1-48BA-904C-A4184DC11AD7}|FileGen\\FileGen.csproj|c:\\users\\hbush\\source\\repos\\windows process manager\\filegen\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3825BC36-C5A1-48BA-904C-A4184DC11AD7}|FileGen\\FileGen.csproj|solutionrelative:filegen\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9116B275-EB73-4DAD-9724-02468CCBB45E}|Windows Process Manager\\Windows Process Manager.csproj|c:\\users\\hbush\\source\\repos\\windows process manager\\windows process manager\\windows process manager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{9116B275-EB73-4DAD-9724-02468CCBB45E}|Windows Process Manager\\Windows Process Manager.csproj|solutionrelative:windows process manager\\windows process manager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{9116B275-EB73-4DAD-9724-02468CCBB45E}|Windows Process Manager\\Windows Process Manager.csproj|c:\\users\\hbush\\source\\repos\\windows process manager\\windows process manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9116B275-EB73-4DAD-9724-02468CCBB45E}|Windows Process Manager\\Windows Process Manager.csproj|solutionrelative:windows process manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3825BC36-C5A1-48BA-904C-A4184DC11AD7}|FileGen\\FileGen.csproj|c:\\users\\hbush\\source\\repos\\windows process manager\\filegen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3825BC36-C5A1-48BA-904C-A4184DC11AD7}|FileGen\\FileGen.csproj|solutionrelative:filegen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9116B275-EB73-4DAD-9724-02468CCBB45E}|Windows Process Manager\\Windows Process Manager.csproj|c:\\users\\hbush\\source\\repos\\windows process manager\\windows process manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9116B275-EB73-4DAD-9724-02468CCBB45E}|Windows Process Manager\\Windows Process Manager.csproj|solutionrelative:windows process manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3825BC36-C5A1-48BA-904C-A4184DC11AD7}|FileGen\\FileGen.csproj|C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\filegen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3825BC36-C5A1-48BA-904C-A4184DC11AD7}|FileGen\\FileGen.csproj|solutionrelative:filegen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9116B275-EB73-4DAD-9724-02468CCBB45E}|Windows Process Manager\\Windows Process Manager.csproj|c:\\users\\hbush\\source\\repos\\windows process manager\\windows process manager\\windows process manager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9116B275-EB73-4DAD-9724-02468CCBB45E}|Windows Process Manager\\Windows Process Manager.csproj|solutionrelative:windows process manager\\windows process manager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 315,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Windows Process Manager",
               "DocumentMoniker": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\Windows Process Manager\\Windows Process Manager.csproj",
               "RelativeDocumentMoniker": "Windows Process Manager\\Windows Process Manager.csproj",
               "ToolTip": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\Windows Process Manager\\Windows Process Manager.csproj",
               "RelativeToolTip": "Windows Process Manager\\Windows Process Manager.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T20:44:56.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T20:44:56.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\FileGen\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "FileGen\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\FileGen\\Form1.Designer.cs",
-              "RelativeToolTip": "FileGen\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T22:50:51.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\FileGen\\Form1.cs",
               "RelativeDocumentMoniker": "FileGen\\Form1.cs",
               "ToolTip": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\FileGen\\Form1.cs",
               "RelativeToolTip": "FileGen\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACQBAAAAAAAAAADwvzMBAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T22:50:42.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\Windows Process Manager\\Program.cs",
               "RelativeDocumentMoniker": "Windows Process Manager\\Program.cs",
               "ToolTip": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\Windows Process Manager\\Program.cs",
               "RelativeToolTip": "Windows Process Manager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwBAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T03:27:28.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\FileGen\\Form1.cs",
               "RelativeDocumentMoniker": "FileGen\\Form1.cs",
               "ToolTip": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\FileGen\\Form1.cs [Design]",
               "RelativeToolTip": "FileGen\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T22:45:36.785Z"
+              "WhenOpened": "2025-10-04T22:45:36.785Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
