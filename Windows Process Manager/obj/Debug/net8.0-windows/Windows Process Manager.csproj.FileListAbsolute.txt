@@ -1,0 +1,14 @@
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.exe
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.deps.json
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.runtimeconfig.json
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfoInputs.cache
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfo.cs
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.CoreCompileInputs.cache
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\refint\Windows Process Manager.dll
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.genruntimeconfig.cache
+C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\ref\Windows Process Manager.dll
