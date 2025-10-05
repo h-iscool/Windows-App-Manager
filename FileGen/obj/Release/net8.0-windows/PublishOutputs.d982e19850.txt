@@ -1,0 +1,5 @@
+C:\Users\hbush\source\repos\Windows Process Manager\FileGen\bin\Release\net8.0-windows\publish\FileGen.exe
+C:\Users\hbush\source\repos\Windows Process Manager\FileGen\bin\Release\net8.0-windows\publish\FileGen.dll
+C:\Users\hbush\source\repos\Windows Process Manager\FileGen\bin\Release\net8.0-windows\publish\FileGen.deps.json
+C:\Users\hbush\source\repos\Windows Process Manager\FileGen\bin\Release\net8.0-windows\publish\FileGen.runtimeconfig.json
+C:\Users\hbush\source\repos\Windows Process Manager\FileGen\bin\Release\net8.0-windows\publish\FileGen.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVbrPbV/Mh0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\Windows Process Manager\\Windows Process Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hbush\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.20\\microsoft.netcore.app.runtime.win-x86.8.0.20.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.20\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.20.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.20\\microsoft.aspnetcore.app.runtime.win-x86.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
