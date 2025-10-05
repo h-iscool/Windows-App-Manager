@@ -1,8 +1,7 @@
 {
   "profiles": {
     "Windows Process Manager": {
-      "commandName": "Project",
-      "commandLineArgs": "msgboxTest"
+      "commandName": "Project"
     }
   }
 }

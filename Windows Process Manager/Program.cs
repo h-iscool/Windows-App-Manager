@@ -325,6 +325,32 @@ class Program
 
             // setup variables:
 
+            List<string> systemReq = new List<string>() {
+                "Idle","System","Registry","smss","csrss","wininit","winlogon","services","lsass",
+                "svchost","fontdrvhost","dwm","WUDFHost","amdfendrsr","atiesrxx","dasHost",
+                "atieclxx","spoolsv","AdminService","FMService64","Lenovo.Modern.ImController",
+                "LenovoVantageService","LNBITSSvc","QcomWlanSrvx64","MpDefenderCoreService",
+                "DAX3API","LenovoUtilityService","RtkAudUService64","SmartSense","UDClientService",
+                "MsMpEng","WmiPrvSE","unsecapp","MSPCManagerService","NisSrv","AutoModeDetect",
+                "conhost","SmartSenseController","sihost","taskhostw","FnHotkeyCapsLKNumLK",
+                "explorer","CrossDeviceResume","SearchHost","StartMenuExperienceHost","FnHotkeyUtility",
+                "Widgets","RuntimeBroker","WidgetService","msedgewebview2","ctfmon",
+                "WindowsPackageManagerServer","TextInputHost","MessagingPlugin","SystemNotificationPlugin",
+                "AppProvisioningPlugin","RadeonSoftware","CPUMetricsServer","LenovoVantage-(VantageCoreAddin)",
+                "SecurityHealthSystray","SecurityHealthService","cncmd","cmd","AMDRSServ","crashhelper",
+                "AMDRSSrcExt","Lenovo.Modern.ImController.PluginHost.Device",
+                "LenovoVantage-(GenericMessagingAddin)","Locator","WmiApSrv","UserOOBEBroker",
+                "dllhost","msedge","ApplicationFrameHost","SystemSettings","smartscreen","audiodg",
+                "UserSSCtrl","WaaSMedicAgent","OneDrive.Sync.Service","backgroundTaskHost",
+                "DataExchangeHost","ShellHost","devenv","PerfWatson2","StandardCollector.Service",
+                "Microsoft.ServiceHub.Controller","ServiceHub.VSDetouredHost","ServiceHub.IdentityHost",
+                "ServiceHub.ThreadedWaitDialog","ServiceHub.RoslynCodeAnalysisService",
+                "ServiceHub.IntellicodeModelService","ServiceHub.Host.dotnet.x64",
+                "ServiceHub.IndexingService","ServiceHub.TestWindowStoreHost","symsrvhost",
+                "ServiceHub.DataWarehouseHost","MSBuild","VBCSCompiler","DesignToolsServer",
+                "FileGen","Taskmgr","wscript"
+            };
+
             bool mainLoop = true;
 
             bool isWhitelist = false;
@@ -338,6 +364,8 @@ class Program
             bool storeTimeLimitLocally = true;
 
             bool checkForUpdates = false;
+
+            bool allowReqProcesses = true;
 
             int timeLimit = 999999999; //Time in minutes
 
@@ -383,6 +411,11 @@ class Program
                 storeTimeLimitLocally = storeTimeInAppdataElement.GetBoolean();
             }
 
+            if (JsonRootElement.TryGetProperty("allowReqProcesses", out JsonElement allowReqProcessesElement))
+            {
+                allowReqProcesses = allowReqProcessesElement.GetBoolean();
+            }
+
             // Try and get lists and dictionaries:
 
             if (JsonRootElement.TryGetProperty("allowedProcesses", out JsonElement allowedProcessesElement))
@@ -408,7 +441,14 @@ class Program
                 }
             }
 
-            
+            // Timelimit
+
+            if (JsonRootElement.TryGetProperty("timeLimit", out JsonElement timeLimitElement))
+            {
+                timeLimit = timeLimitElement.GetInt32();
+            }
+
+
 
             List<string> RequiredProcesses = new List<string>();
 
@@ -439,17 +479,24 @@ class Program
                 {
                     foreach (Process process in processes)
                     {
-                        if (!(AllowedProcessList.Contains(process.ProcessName) || AllowedProcessList.Contains(process.ToString()) || RequiredProcesses.Contains(process.ProcessName)))
+                        if (allowReqProcesses && systemReq.Contains(process.ProcessName))
                         {
-                            process.Kill(true);
+
                         }
                         else
                         {
-                            Console.WriteLine($"${process.ProcessName} is either a required process or is in the allowed list");
+                            if (!(AllowedProcessList.Contains(process.ProcessName) || AllowedProcessList.Contains(process.ToString()) || RequiredProcesses.Contains(process.ProcessName)))
+                            {
+                                process.Kill(true);
+                            }
+                            else
+                            {
+                                Console.WriteLine($"${process.ProcessName} is either a required process or is in the allowed list");
+                            }
                         }
                     }
                 }
-                else if (isBlacklist) {
+                if (isBlacklist) {
                     foreach (Process process in processes) {
                         if ((BannedProcessList.Contains(process.ProcessName) || BannedProcessList.Contains(process.ToString())) && (!RequiredProcesses.Contains(process.ProcessName))) { 
                             process.Kill(true);
@@ -459,7 +506,7 @@ class Program
 
 
 
-                    Thread.Sleep(250);
+                    Thread.Sleep(125);
             }
         }
     }
