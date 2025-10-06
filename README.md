@@ -13,4 +13,4 @@ This is a recreation of the "Windows-App-Restrictor" project that I was working 
  - smaller app size than windows app restrictor
  - better resource management
  - and more!
-[This is still in beta and until 1.0 it will NOT be required to contain all of these]
+[This is still in beta and until 2.0 it will NOT be required to contain all of these]
