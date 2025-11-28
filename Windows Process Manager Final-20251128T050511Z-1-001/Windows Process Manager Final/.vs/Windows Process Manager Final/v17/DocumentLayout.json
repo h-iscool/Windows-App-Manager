@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5537C-94D6-4791-B13F-E99D04A3D155}|Windows Process Manager Updater\\Windows Process Manager Updater.csproj|C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\windows process manager updater\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5537C-94D6-4791-B13F-E99D04A3D155}|Windows Process Manager Updater\\Windows Process Manager Updater.csproj|solutionrelative:windows process manager updater\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C7F4A4-E724-429C-A01D-963371A2D26E}|Windows Process Manager\\Windows Process Manager.csproj|C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\windows process manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12C7F4A4-E724-429C-A01D-963371A2D26E}|Windows Process Manager\\Windows Process Manager.csproj|solutionrelative:windows process manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADC82D2-D4B0-434E-AF5F-AF31B3992A1F}|DebugCli\\DebugCli.csproj|c:\\users\\hayden\\source\\repos\\windows process manager final\\debugcli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADC82D2-D4B0-434E-AF5F-AF31B3992A1F}|DebugCli\\DebugCli.csproj|solutionrelative:debugcli\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\Windows Process Manager Updater\\Service1.cs",
+              "RelativeDocumentMoniker": "Windows Process Manager Updater\\Service1.cs",
+              "ToolTip": "C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\Windows Process Manager Updater\\Service1.cs",
+              "RelativeToolTip": "Windows Process Manager Updater\\Service1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:04:29.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\DebugCli\\Form1.cs",
+              "RelativeDocumentMoniker": "DebugCli\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\DebugCli\\Form1.cs",
+              "RelativeToolTip": "DebugCli\\Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv9cAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:09:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\Windows Process Manager\\Form1.cs",
+              "RelativeDocumentMoniker": "Windows Process Manager\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hayden\\source\\repos\\Windows Process Manager Final\\Windows Process Manager\\Form1.cs [Design]",
+              "RelativeToolTip": "Windows Process Manager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:19:00.524Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
