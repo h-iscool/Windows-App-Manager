@@ -1,14 +1,122 @@
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.exe
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.deps.json
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.runtimeconfig.json
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.dll
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.pdb
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfoInputs.cache
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfo.cs
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.CoreCompileInputs.cache
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.dll
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\refint\Windows Process Manager.dll
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.pdb
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.genruntimeconfig.cache
-C:\Users\hbush\source\repos\Windows Process Manager\Windows Process Manager\obj\Debug\net8.0-windows\ref\Windows Process Manager.dll
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.deps.json
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.runtimeconfig.json
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.exe
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.exe
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.deps.json
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.runtimeconfig.json
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.dll
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.pdb
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.AssemblyReference.cache
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows_Process_Manager.Form1.resources
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.GenerateResource.cache
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfoInputs.cache
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfo.cs
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows .3CF933F0.Up2Date
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\refint\Windows Process Manager.dll
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.genruntimeconfig.cache
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\ref\Windows Process Manager.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.deps.json
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.runtimeconfig.json
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.deps.json
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.runtimeconfig.json
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.AssemblyReference.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows_Process_Manager.Form1.resources
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.GenerateResource.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfoInputs.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfo.cs
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.CoreCompileInputs.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows .3CF933F0.Up2Date
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\refint\Windows Process Manager.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.genruntimeconfig.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final-20251128T050511Z-1-001\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\ref\Windows Process Manager.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.deps.json
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.runtimeconfig.json
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.exe
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.exe
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.deps.json
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.runtimeconfig.json
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.pdb
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.AssemblyReference.cache
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows_Process_Manager.Form1.resources
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.GenerateResource.cache
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfoInputs.cache
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfo.cs
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows .3CF933F0.Up2Date
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\refint\Windows Process Manager.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.genruntimeconfig.cache
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\ref\Windows Process Manager.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.DirectoryServices.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Hayden\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.deps.json
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.runtimeconfig.json
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.deps.json
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.runtimeconfig.json
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.DirectoryServices.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\bin\Debug\net8.0-windows\DebugCli.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.AssemblyReference.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows_Process_Manager.Form1.resources
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.GenerateResource.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfoInputs.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.AssemblyInfo.cs
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.csproj.CoreCompileInputs.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows .3CF933F0.Up2Date
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\refint\Windows Process Manager.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\Windows Process Manager.genruntimeconfig.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager\obj\Debug\net8.0-windows\ref\Windows Process Manager.dll

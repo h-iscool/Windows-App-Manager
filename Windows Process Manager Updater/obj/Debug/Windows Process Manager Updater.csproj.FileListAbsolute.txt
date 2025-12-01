@@ -1,0 +1,39 @@
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\Windows Process Manager Updater.exe.config
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\Windows Process Manager Updater.exe
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\Windows Process Manager Updater.pdb
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.csproj.AssemblyReference.cache
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.exe
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.pdb
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.exe.config
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows_Process_Manager_Updater.ProjectInstaller.resources
+C:\Users\Hayden\source\repos\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.csproj.GenerateResource.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\Windows Process Manager Updater.exe.config
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\Windows Process Manager Updater.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\Windows Process Manager Updater.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Buffers.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Memory.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Text.Json.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Buffers.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Memory.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Text.Json.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.csproj.AssemblyReference.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.exe.config
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows_Process_Manager_Updater.ProjectInstaller.resources
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.csproj.GenerateResource.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.csproj.CoreCompileInputs.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows .E54845FF.Up2Date
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows Process Manager Updater\obj\Debug\Windows Process Manager Updater.pdb

@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "wj6LWLrJ6Gc=",
+  "dgSpecHash": "P4dfRl5/iJs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hbush\\source\\repos\\Windows Process Manager\\Windows Process Manager\\Windows Process Manager.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hbush\\Downloads\\Windows Process Manager Final\\Windows Process Manager\\Windows Process Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hbush\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.0\\microsoft.bcl.cryptography.10.0.0.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.0\\system.configuration.configurationmanager.10.0.0.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.0\\system.diagnostics.eventlog.10.0.0.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\system.directoryservices\\10.0.0\\system.directoryservices.10.0.0.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\system.directoryservices.accountmanagement\\10.0.0\\system.directoryservices.accountmanagement.10.0.0.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\system.directoryservices.protocols\\10.0.0\\system.directoryservices.protocols.10.0.0.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\system.formats.asn1\\10.0.0\\system.formats.asn1.10.0.0.nupkg.sha512",
+    "C:\\Users\\hbush\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.0\\system.security.cryptography.protecteddata.10.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,27 @@
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\Update Worker.exe.config
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\Update Worker.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\Update Worker.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\obj\Debug\Update Worker.csproj.AssemblyReference.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\obj\Debug\Update Worker.csproj.CoreCompileInputs.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\obj\Debug\Update Worker.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\obj\Debug\Update Worker.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\obj\Debug\Update Worker.exe.config
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Buffers.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Memory.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Text.Json.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Buffers.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Memory.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Text.Json.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hbush\Downloads\Windows Process Manager Final\Update Worker\obj\Debug\Update W.6061F56C.Up2Date

@@ -1,0 +1,14 @@
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\bin\Debug\net8.0\Windows App Manager Worker.exe
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\bin\Debug\net8.0\Windows App Manager Worker.deps.json
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\bin\Debug\net8.0\Windows App Manager Worker.runtimeconfig.json
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\bin\Debug\net8.0\Windows App Manager Worker.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\bin\Debug\net8.0\Windows App Manager Worker.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\Windows App Manager Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\Windows App Manager Worker.AssemblyInfoInputs.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\Windows App Manager Worker.AssemblyInfo.cs
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\Windows App Manager Worker.csproj.CoreCompileInputs.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\Windows App Manager Worker.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\refint\Windows App Manager Worker.dll
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\Windows App Manager Worker.pdb
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\Windows App Manager Worker.genruntimeconfig.cache
+C:\Users\hbush\Downloads\Windows Process Manager Final\Windows App Manager Worker\obj\Debug\net8.0\ref\Windows App Manager Worker.dll
