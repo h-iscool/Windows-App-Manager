@@ -2,6 +2,7 @@
 This is a recreation of the "Windows-App-Restrictor" project that I was working on. This version aims to be a more efficient and diverce version of that application.
 
 ## Features:
+ - AUTO UPDATES!!!!!!
  - whitelisting
  - blacklisting
  - controling background apps
