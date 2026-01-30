@@ -25,6 +25,8 @@ namespace Windows_Process_Manager_Updater
         
 
 
+        //lol i fucked the pipe
+
 
         private bool _running = true;
 
@@ -174,19 +176,7 @@ namespace Windows_Process_Manager_Updater
                             reply = (ok1 && ok2 && ok3) ? "=^.^=\nall good" : "missing-files";
                         }
 
-                        // else if (message.StartsWith(":3c"))
-                        // { //cmd debug stuff
-                        //     new Thread(() =>
-                        //     {
-                        //         ProcessStartInfo psi = new ProcessStartInfo(); //this all will be commented out on the full release
-                        //         string args = message.Length > 3 ? message.Substring(3).Trim() : "";
-                        //         psi.FileName = "cmd.exe";
-                        //         psi.Arguments = "/c " + args;
-                        //         psi.UseShellExecute = false;
-                        //         psi.CreateNoWindow = true;
-                        //         Process.Start(psi);
-                        //     }).Start();
-                        // }
+                        //nah
 
                         //reply to say that it connected properly:
 

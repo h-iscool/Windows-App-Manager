@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P4dfRl5/iJs=",
+  "dgSpecHash": "mPo9+3vAAdQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hbush\\Downloads\\Windows Process Manager Final\\Windows Process Manager\\Windows Process Manager.csproj",
+  "projectFilePath": "C:\\Users\\hbush\\Desktop\\Github stuff\\Windows-App-Manager\\Windows Process Manager\\Windows Process Manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hbush\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.0\\microsoft.bcl.cryptography.10.0.0.nupkg.sha512",
     "C:\\Users\\hbush\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.0\\system.configuration.configurationmanager.10.0.0.nupkg.sha512",

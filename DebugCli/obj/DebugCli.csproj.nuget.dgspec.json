@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hbush\\Downloads\\Windows Process Manager Final\\DebugCli\\DebugCli.csproj": {}
+    "C:\\Users\\hbush\\Desktop\\Github stuff\\Windows-App-Manager\\DebugCli\\DebugCli.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hbush\\Downloads\\Windows Process Manager Final\\DebugCli\\DebugCli.csproj": {
+    "C:\\Users\\hbush\\Desktop\\Github stuff\\Windows-App-Manager\\DebugCli\\DebugCli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hbush\\Downloads\\Windows Process Manager Final\\DebugCli\\DebugCli.csproj",
+        "projectUniqueName": "C:\\Users\\hbush\\Desktop\\Github stuff\\Windows-App-Manager\\DebugCli\\DebugCli.csproj",
         "projectName": "DebugCli",
-        "projectPath": "C:\\Users\\hbush\\Downloads\\Windows Process Manager Final\\DebugCli\\DebugCli.csproj",
+        "projectPath": "C:\\Users\\hbush\\Desktop\\Github stuff\\Windows-App-Manager\\DebugCli\\DebugCli.csproj",
         "packagesPath": "C:\\Users\\hbush\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hbush\\Downloads\\Windows Process Manager Final\\DebugCli\\obj\\",
+        "outputPath": "C:\\Users\\hbush\\Desktop\\Github stuff\\Windows-App-Manager\\DebugCli\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hbush\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
