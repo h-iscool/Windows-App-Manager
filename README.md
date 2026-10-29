@@ -15,3 +15,7 @@ This is a recreation of the "Windows-App-Restrictor" project that I was working 
  - better resource management
  - and more!
 [This is still in beta and until 2.0 it will NOT be required to contain all of these]
+
+
+-=-=-
+I dont really want to work on this project anymore, it likely will not be updated and if any future iteration is to exist it will likely be in a separate repo and ill link it
